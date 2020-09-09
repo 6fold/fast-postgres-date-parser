@@ -1,5 +1,5 @@
 {
-  "name": "fast-postgres-date-parser",
+  "name": "@sixfold/fast-postgres-date-parser",
   "version": "0.0.1",
   "description": "faster implementation of postgres date parser",
   "main": "index.js",
