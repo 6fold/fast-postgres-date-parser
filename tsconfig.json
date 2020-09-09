@@ -1,0 +1,26 @@
+{
+  "extends": "./node_modules/@sixfold/ts-config/tsconfig-service.json",
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "declaration": true,
+    "declarationDir": "dist/types",
+    "outDir": "dist/cjs",
+    "sourceMap": true
+  },
+  "target": "es2019",
+  "lib": [
+    "es2019"
+  ],
+  "plugins": [
+    {
+      "name": "tslint-language-service"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "src/benchmark/**/*.ts",
+    "**/__tests__/**"
+  ]
+}

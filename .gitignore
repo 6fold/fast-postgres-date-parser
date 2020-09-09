@@ -1,0 +1,47 @@
+# Local dotenv/direnv
+.env
+.envrc
+
+# Editor and OS
+*~
+.*.swp
+.DS_Store
+.dir-locals.el
+/.idea
+/.vscode/settings.json
+patch.diff
+
+# Logs
+*.log
+/logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime
+*.pid
+*.pid.lock
+*.seed
+/pids
+
+# Node artifacts
+*.tgz
+/build
+/node_modules
+
+# Node misc
+.node_repl_history
+.npmrc
+.yarn-integrity
+/.eslintcache
+/.grunt
+/.npm
+/.nyc_output
+/coverage
+/lib-cov
+ormconfig.json
+.yalc/
+yalc.lock
+.vscode/
+
+dist/

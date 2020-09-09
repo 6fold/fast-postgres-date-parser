@@ -1,0 +1,9 @@
+{
+  "extends": "@sixfold/ts-config",
+  "rules": {
+    "ter-indent": false
+  },
+  "import-name": [
+    false
+  ]
+}
