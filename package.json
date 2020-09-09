@@ -1,6 +1,6 @@
 {
   "name": "@sixfold/fast-postgres-date-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "faster implementation of postgres date parser",
   "main": "index.js",
   "repository": "git@github.com:6fold/fast-postgres-date-parser.git",
