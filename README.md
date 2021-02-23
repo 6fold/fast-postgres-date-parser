@@ -2,9 +2,13 @@
 
 A drop in for 'postgres-date' package that is few times faster.
 
+### Installation
+
+`yarn install @sixfold/fast-postgres-date-parser`
+
 ### Usage
 
-```TypeScript
+```ts
 import { types } from 'pg';
 import { parsePostgresTimestamp} from '@sixfold/fast-postgres-date-parser';
 
