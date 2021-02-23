@@ -55,7 +55,7 @@ class PGDateParser {
       return (chr1 - CHAR_CODE_0) * 10 + (chr2 - CHAR_CODE_0);
     }
 
-    return -1;
+    return null;
   }
 
   private skipChar(char: number) {
