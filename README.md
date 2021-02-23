@@ -20,11 +20,11 @@ types.setTypeParser(types.builtins.TIMESTAMP, parsePostgresTimestamp);
 
 The project also contains a benchmark, you can run with `yarn benchmark`
 
-Latest result against postgres-date@1.0.7 which contains performance improvements
+Latest benchmark against postgres-date@2.0.0
 
 ```
 Name                         Operations per second    Average time, ms
 fast-postgres-date-parser    3.1 x 10^6               0.00                ==============================>
-postgres-date                1.3 x 10^6               0.00                =============>
-fast-postgres-date is 2.369 times faster
+postgres-date                1.1 x 10^6               0.00                ==========>
+fast-postgres-date is 2.883 times faster
 ```
