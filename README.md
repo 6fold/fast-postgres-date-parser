@@ -23,8 +23,9 @@ The project also contains a benchmark, you can run with `yarn benchmark`
 Latest benchmark against postgres-date@2.0.0
 
 ```
-Name                         Operations per second    Average time, ms
-fast-postgres-date-parser    3.1 x 10^6               0.00                ==============================>
-postgres-date                1.1 x 10^6               0.00                ==========>
-fast-postgres-date is 2.883 times faster
+  postgres-date:
+    1 309 014 ops/s, ±0.88%   | slowest, 62.11% slower
+
+  faster-date-parser:
+    3 455 121 ops/s, ±2.20%   | fastest
 ```
