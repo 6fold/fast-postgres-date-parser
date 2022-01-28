@@ -7,6 +7,10 @@
   "repository": "git@github.com:6fold/fast-postgres-date-parser.git",
   "author": "Jaan Oras <jaan.oras@gmail.com>",
   "license": "MIT",
+  "files": [
+    "dist",
+    "!dist/**/__tests__"
+  ],
   "scripts": {
     "build": "tsc",
     "lint": "tslint --project .",
