@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/6fold/fast-postgres-date-parser/compare/v0.0.5...v0.0.6) (2022-11-03)
+
+
+### Bug Fixes
+
+* minimize npm package. ([#6](https://github.com/6fold/fast-postgres-date-parser/issues/6)) ([4a3b339](https://github.com/6fold/fast-postgres-date-parser/commit/4a3b3393f5facb871202bb55b68ad5f36972c26e))
+
 ### [0.0.5](https://github.com/6fold/fast-postgres-date-parser/compare/v0.0.4...v0.0.5) (2021-02-23)
 
 
