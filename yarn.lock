@@ -639,7 +639,7 @@
 
 "@sixfold/editor-config@^2.3.0":
   version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@sixfold/editor-config/-/editor-config-2.3.0.tgz#72db060a173ff16a331cae9eac5db444a96aedf4"
+  resolved "https://europe-npm.pkg.dev/sixfold-general/npm-packages/@sixfold/editor-config/-/editor-config-2.3.0.tgz#72db060a173ff16a331cae9eac5db444a96aedf4"
   integrity sha512-rM15SRTvjoHOxD8qzfG8gKSUVG00FtmvUbf69o5axmESQ9ZVrAm7xpaISd0/AFJgn6I0OYay1NRQZ7cPmkomLA==
   dependencies:
     prettier "^2.5.1"
@@ -647,7 +647,7 @@
 
 "@sixfold/ts-config@^4.1.2":
   version "4.1.2"
-  resolved "https://registry.yarnpkg.com/@sixfold/ts-config/-/ts-config-4.1.2.tgz#6e1d23f39943e13d98cf6dec8ad82eb1fc7eba55"
+  resolved "https://europe-npm.pkg.dev/sixfold-general/npm-packages/@sixfold/ts-config/-/ts-config-4.1.2.tgz#6e1d23f39943e13d98cf6dec8ad82eb1fc7eba55"
   integrity sha512-tOe74QDGq1B78zkt7VokYem1ThxxIk2xEtbxt61nKAPSQAhVAwhAitwLfcuKUWAMNar21B1ifIkTBCXttITKPg==
   dependencies:
     "@sixfold/tslint-rules" "^1.0.0"
@@ -660,7 +660,7 @@
 
 "@sixfold/tslint-rules@^1.0.0":
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sixfold/tslint-rules/-/tslint-rules-1.0.1.tgz#31b9b7948284b338640e2d36fde7ae732207528c"
+  resolved "https://europe-npm.pkg.dev/sixfold-general/npm-packages/@sixfold/tslint-rules/-/tslint-rules-1.0.1.tgz#31b9b7948284b338640e2d36fde7ae732207528c"
   integrity sha512-OmNbD0748uyAG+yLSPN2Iq7TuDSfegrvOqDuEZkc3DT6jsnrGguuPouW6zM5NdORxxmk8AmnpuZgnhzNtYZH+A==
 
 "@tsconfig/node10@^1.0.7":
