@@ -31,7 +31,6 @@ yarn-error.log*
 
 # Node misc
 .node_repl_history
-.npmrc
 .yarn-integrity
 /.eslintcache
 /.grunt
