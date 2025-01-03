@@ -18,11 +18,8 @@
     "release": "rimraf dist && yarn build && yarn test && standard-version",
     "publish-release": "git push --follow-tags origin master && yarn authenticate && npm publish",
     "authenticate": "npx google-artifactregistry-auth",
-    "fix": "yarn lint:fix && yarn prettier:fix",
+    "fix": "yarn lint:fix",
     "test": "yarn lint && yarn jest",
-    "prettier": "prettier \"./src/**/**\"",
-    "prettier:check": "yarn prettier --check",
-    "prettier:fix": "yarn prettier --write",
     "benchmark": "ts-node src/benchmark/benchmark.ts"
   },
   "devDependencies": {
